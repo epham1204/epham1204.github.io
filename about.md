@@ -2,9 +2,9 @@
 
 Hello! I'm Ethan, a programming instructor with experience in:
 
-- Python 🐍
-- Java ☕
-- Web Development (HTML/CSS/JS) 🌐
+- Python 
+- Java 
+- Web Development (HTML/CSS/JS) 
 
 ## My Teaching Philosophy
 
