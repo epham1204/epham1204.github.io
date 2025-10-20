@@ -6,7 +6,7 @@ Here are a few projects I’ve built or used:
 
 ## Project 1: Snap Program: Week 1
 
-https://youtu.be/gLb38DE_Gmk
+(https://youtu.be/gLb38DE_Gmk)
 
 ## Project 2: Show What You Know: Write and Explain A Program: Week 2
 
