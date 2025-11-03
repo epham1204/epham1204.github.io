@@ -1,8 +1,9 @@
 # My Programming Projects
 
-Here are a few projects I’ve built or used:
-
 ---
+## Project 7: Repeat Until Soccer: Week 5
+
+[https://youtu.be/M9GzdRo7pEA](https://youtu.be/M9GzdRo7pEA)
 
 ## Project 6: 3 Shapes: Week 4
 [https://youtu.be/_nNjqcvyAFc](https://youtu.be/_nNjqcvyAFc)
