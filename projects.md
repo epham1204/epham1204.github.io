@@ -1,11 +1,16 @@
 # My Programming Projects
 
 ---
+## Project 7: If Else Soccer Target: Week 6
+
+[https://youtu.be/x-iZW1mHSSk](https://youtu.be/x-iZW1mHSSk)
+
 ## Project 7: Repeat Until Soccer: Week 5
 
 [https://youtu.be/M9GzdRo7pEA](https://youtu.be/M9GzdRo7pEA)
 
 ## Project 6: 3 Shapes: Week 4
+
 [https://youtu.be/_nNjqcvyAFc](https://youtu.be/_nNjqcvyAFc)
 
 ## Project 5: Monkey and Banana: Week 3
