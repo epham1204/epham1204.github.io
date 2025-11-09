@@ -1,7 +1,7 @@
 # My Programming Projects
 
 ---
-## Project 7: If Else Soccer Target: Week 6
+## Project 8: If Else Soccer Target: Week 6
 
 [https://youtu.be/x-iZW1mHSSk](https://youtu.be/x-iZW1mHSSk)
 
