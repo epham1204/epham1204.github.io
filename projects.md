@@ -1,6 +1,10 @@
 # My Programming Projects
 
 ---
+## Project 9: Nested For Loop Swimming: Week 7
+
+[https://youtu.be/FyAz7Tn03kg](https://youtu.be/FyAz7Tn03kg)
+
 ## Project 8: If Else Soccer Target: Week 6
 
 [https://youtu.be/x-iZW1mHSSk](https://youtu.be/x-iZW1mHSSk)
