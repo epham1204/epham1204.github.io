@@ -1,5 +1,8 @@
 # My Programming Projects
 
+## Project 10: Compound Conditional Treasure: Week 8
+
+[https://youtu.be/R4efoGeGZBc](https://youtu.be/R4efoGeGZBc)
 ---
 ## Project 9: Nested For Loop Swimming: Week 7
 
